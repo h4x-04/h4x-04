@@ -1,4 +1,4 @@
-# 👩🏻‍💻 MARIELY
+# 👩🏻‍💻 Mariely
 
 ---
 
