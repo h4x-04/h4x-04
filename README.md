@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8c56faeb-cda8-4b46-a5a1-37a0f1befaac" /># 👩🏻‍💻 Mariely
+# 👩🏻‍💻 Mariely
 
 ---
 
