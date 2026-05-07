@@ -27,7 +27,6 @@ Estudante de Ciência da Computação apaixonada por tecnologia, desenvolvimento
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 ### 📊 Estatísticas
 
