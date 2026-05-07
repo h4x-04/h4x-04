@@ -30,8 +30,7 @@ Estudante de Ciência da Computação apaixonada por tecnologia, desenvolvimento
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h4x-04&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4x-04&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h4x-04&layout=compact&theme=tokyonight)
+<img 
+  height="180em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=h4x-04&theme=tokyonight"
+/>
