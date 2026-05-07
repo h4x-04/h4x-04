@@ -24,13 +24,17 @@ Estudante de Ciência da Computação apaixonada por tecnologia, desenvolvimento
     src="https://devicon-website.vercel.app/api/c/original.svg" 
 />
 
-<br/>
-<br/>
-
-
-### 📊 Estatísticas
-
 <img 
-  height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=h4x-04&theme=tokyonight"
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+
+
+<br/>
+<br/>
+
+
