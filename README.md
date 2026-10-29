@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o [Seu Nome]
+# Olá! 👋 Sou a Mariely
 
 Estudante de **Ciência da Computação na UNINTER**, focado em desenvolvimento de software (especialmente backend) e curioso sobre como aplicar IA no dia a dia.
 
