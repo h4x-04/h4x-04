@@ -1,30 +1,37 @@
+# Olá! 👋 Sou o [Seu Nome]
 
-# Olá! 👋
+Estudante de **Ciência da Computação na UNINTER**, focado em desenvolvimento de software (especialmente backend) e curioso sobre como aplicar IA no dia a dia.
 
-Sou estudante de **Ciência da Computação na UNINTER**, interessado em desenvolvimento de software e em como a inteligência artificial pode ser aplicada para resolver problemas reais.
-
-Atualmente, estou desenvolvendo minhas habilidades em programação, integração entre sistemas e bancos de dados, por meio de estudos acadêmicos e projetos práticos.
-
-## 🛠️ Conhecimentos técnicos
-
-- **Linguagens:** Python, Java e C
-- **Banco de dados:** SQL e MySQL
-- **Desenvolvimento:** Spring Boot, APIs REST e JPA
-- **Ferramentas:** Git, GitHub, Excel e Google Sheets
-- **Análise de dados:** Power BI
-
-## 📂 Projetos em destaque
-
-### [Baozi Store API](https://github.com/h4x-04/PROJETO_JAVA)
-Aplicação desenvolvida com Java e Spring Boot, utilizando API REST, JPA e MySQL para trabalhar com clientes, produtos e pedidos.
-
-### [Meus repositórios](https://github.com/h4x-04?tab=repositories)
-Exercícios, estudos e projetos desenvolvidos durante minha formação em Ciência da Computação.
-
-## 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, aprofundar meus conhecimentos em engenharia de software e explorar aplicações de inteligência artificial por meio de projetos práticos.
+Gosto de entender a tecnologia de ponta a ponta: desde a lógica de baixo nível com **C**, passando por regras de negócio e APIs com **Java (Spring Boot)** e **Python**, até a modelagem de dados com **SQL/MySQL**.
 
 ---
 
-📌 Confira meus repositórios para acompanhar minha evolução e meus projetos.
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="35" height="35" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="35" height="35" style="margin-right: 8px;" />
+
+  <!-- Backend & Banco de Dados -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="35" height="35" style="margin-right: 8px;" />
+
+  <!-- Ferramentas & Análise -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="35" height="35" style="margin-right: 8px;" />
+
+
+---
+
+### 📂 Projeto em destaque
+
+#### 🛒 [Baozi Store API](https://github.com/h4x-04/PROJETO_JAVA)
+API REST para gestão de e-commerce (clientes, produtos e pedidos).
+- **Stack:** Java, Spring Boot, Spring Data JPA e MySQL.
+- **Conceitos aplicados:** CRUD completo, boas práticas REST e persistência relacional.
+
+---
+
+### 📌 O que estou buscando
+Aprender e construir com consistência, colaborar em projetos de software e trocar experiências sobre engenharia e dados. Sinta-se à vontade para explorar meus repositórios ou me dar um alô!
